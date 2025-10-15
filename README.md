@@ -1,2 +1,2 @@
 # Virtual-tour-360-pada-area-pelayanan-kantor-pengadilan-agama-kotabaru-
-Projek virtual tour 360 menggunkan h5p pada area pelayanan kantor pengadilan agama kotabaru. 
+virtual tour berbasik web yang menampilkan tampilan 360 pada area pelayanan kantor pengadilan agama kotabaru yang interaktif  
